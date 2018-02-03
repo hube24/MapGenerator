@@ -1,0 +1,8 @@
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\MapConverter.csproj.GenerateResource.Cache
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\bin\Debug\MapConverter.exe
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\bin\Debug\MapConverter.pdb
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\MapConverter.exe
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\MapConverter.pdb
+C:\Users\Hubert\documents\visual studio 2010\Projects\MapConverter\MapConverter\obj\x86\Debug\MapConverter.csprojResolveAssemblyReference.cache

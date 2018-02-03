@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGame.CSharp.Plugins", "MapGame.CSharp.Plugins.csproj", "{7C62B703-C7F1-9019-BDDE-393238D6D2E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGame.CSharp", "MapGame.CSharp.csproj", "{DF85E15F-7016-D17A-C87C-F3D03B6E7435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapGame.CSharp.Editor", "MapGame.CSharp.Editor.csproj", "{37BFBE1F-1688-0C11-22F7-ADD0BDB2CD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C62B703-C7F1-9019-BDDE-393238D6D2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C62B703-C7F1-9019-BDDE-393238D6D2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C62B703-C7F1-9019-BDDE-393238D6D2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C62B703-C7F1-9019-BDDE-393238D6D2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF85E15F-7016-D17A-C87C-F3D03B6E7435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF85E15F-7016-D17A-C87C-F3D03B6E7435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF85E15F-7016-D17A-C87C-F3D03B6E7435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF85E15F-7016-D17A-C87C-F3D03B6E7435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BFBE1F-1688-0C11-22F7-ADD0BDB2CD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BFBE1F-1688-0C11-22F7-ADD0BDB2CD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BFBE1F-1688-0C11-22F7-ADD0BDB2CD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BFBE1F-1688-0C11-22F7-ADD0BDB2CD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
